@@ -31,7 +31,7 @@ public class TypeCasting {
 		// Type conversion into BYTE
 		byte b = (byte) i;
 		System.out.println("Size of Byte (in bits) is: " + Byte.SIZE/8);
-		if(-127 <= b && b <= 126) {
+		if(-128 <= b && b <= 127) {
 			System.out.println("Overflow or Loss of Data");
 		}else {
 			System.out.println("No data Loss");
