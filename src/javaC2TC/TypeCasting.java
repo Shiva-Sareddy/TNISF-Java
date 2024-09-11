@@ -60,6 +60,16 @@ public class TypeCasting {
 		// Boolean Data type
 		boolean bool = false;
 		System.out.println("Boolean Value: " + bool);
+	
+		System.out.println("\n\n");
+		
+		System.out.println("The Various Min and Max Values of Data Types: ");
+		System.out.println("Range of BYTE: " + Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
+		System.out.println("Range of SHORT: " + Short.MIN_VALUE + " to " + Short.MAX_VALUE);
+		System.out.println("Range of INT: " + Integer.MIN_VALUE + " to " + Integer.MAX_VALUE);
+		System.out.println("Range of LONG: " + Long.MIN_VALUE + " to " + Long.MAX_VALUE);
+		System.out.println("Range of FLOAT: " + Float.MIN_VALUE + " to " + Float.MAX_VALUE);
+		System.out.println("Range of DOUBLE: " + Double.MIN_VALUE + " to " + Double.MAX_VALUE);
 		
 		System.out.println("\n\n");
 		
