@@ -1,4 +1,4 @@
-package com.java.patterns;
+package com.kalki.patterns;
 
 import java.util.Scanner;
 

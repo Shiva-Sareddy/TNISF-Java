@@ -1,10 +1,13 @@
-package com.java.patterns;
+package com.kalki.patterns;
 
 import java.util.Scanner;
 
-public class DecreasingTriangle {
-	public void Traingle(int n) {
+public class RightSidedInvertTriangle {
+	public void Triangle(int n) {
 		for(int i =1; i <= n; i++) {
+			for(int j = 1; j < i; j++) {
+				System.out.print("  ");
+			}
 			for(int j = i; j <= n; j++) {
 				System.out.print("* ");
 			}
@@ -15,8 +18,8 @@ public class DecreasingTriangle {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter a Number: ");
 		int n = sc.nextInt();
-		DecreasingTriangle dt = new DecreasingTriangle();
-		dt.Traingle(n);
+		RightSidedInvertTriangle rsit = new RightSidedInvertTriangle();
+		rsit.Triangle(n);
 		sc.close();
 	}
 
