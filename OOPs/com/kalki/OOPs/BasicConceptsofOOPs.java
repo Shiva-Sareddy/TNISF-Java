@@ -52,3 +52,10 @@ public class BasicConceptsofOOPs {
 	}
 
 }
+
+
+/* Outcomes:
+ 1. Class: A blueprint or a Template that defines the Attributes(properties) and methods(behaviours) that objects created from the class will have.
+ 2. Object: it is an Instance of the class
+ 3. Declaring attributes and creating an instance of the class i.e. Object (oop)
+ */
