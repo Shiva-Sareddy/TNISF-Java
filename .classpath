@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="JavaPatterns"/>
 	<classpathentry kind="src" path="Packages"/>
+	<classpathentry kind="src" path="OOPs"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
