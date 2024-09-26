@@ -52,7 +52,7 @@ public class EncapsulationPractice {
 		System.out.print("Enter Employee Name: ");
 		kd.EmployeeName = sc.nextLine();
 		
-		System.out.print("Enter Salary ID: ");
+		System.out.print("Enter Salary: ");
 		kd.setEmpSalary(sc.nextInt());
 		sc.nextLine();
 		System.out.print("Enter Date of Joined in \"Kalki\"(dd/mm/yyyy): ");
