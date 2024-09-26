@@ -1,4 +1,4 @@
-package javaC2TC;
+package javaBasics;
 
 public class TypeCasting {
 	// Default Size of Data Types in Java

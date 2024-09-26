@@ -1,4 +1,4 @@
-package javaC2TC;
+package javaBasics;
 
 public class TypesVariables {
 	// Instance Variables
