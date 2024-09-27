@@ -4,21 +4,30 @@ import java.util.Scanner;
 
 class KalkiData {
 	
-	//Instance Variables
+	
+	// Employee ID
 	private int EmployeeID;
 	
-	public int getEmployeeID() {
+	public int getEmployeeID() { // getMethod or getter
 		return EmployeeID;
 	}
-	public void setEmployeeID(int employeeID) {
+	public void setEmployeeID(int employeeID) { // setMEthod or setter
 		EmployeeID = employeeID;
 	}
+	
+	// Employee Salary
+	private int EmpSalary;
+	
 	public int getEmpSalary() {
 		return EmpSalary;
 	}
 	public void setEmpSalary(int empSalary) {
 		EmpSalary = empSalary;
 	}
+	
+	// Permanent OTP
+	private static String PermanentOTP;
+	
 	public static String getPermanentOTP() {
 		return PermanentOTP;
 	}
@@ -26,13 +35,9 @@ class KalkiData {
 		PermanentOTP = permanentOTP;
 	}
 	
+	
 	public String EmployeeName;
-	
-	private int EmpSalary;
-	
 	public String DateOfJoin;
-	
-	private static String PermanentOTP;
 	
 	
 }
@@ -43,7 +48,9 @@ public class EncapsulationPractice {
 		Scanner sc = new Scanner(System.in);
 		
 		KalkiData kd = new KalkiData();
+		
 		KalkiData.setPermanentOTP("211A0F");
+		
 		System.out.print("Enter Employee ID: ");
 		kd.setEmployeeID(sc.nextInt());
 		
@@ -54,7 +61,9 @@ public class EncapsulationPractice {
 		
 		System.out.print("Enter Salary: ");
 		kd.setEmpSalary(sc.nextInt());
+		
 		sc.nextLine();
+		
 		System.out.print("Enter Date of Joined in \"Kalki\"(dd/mm/yyyy): ");
 		kd.DateOfJoin = sc.nextLine();
 		
