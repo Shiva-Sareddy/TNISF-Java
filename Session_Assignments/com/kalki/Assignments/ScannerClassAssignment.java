@@ -38,7 +38,7 @@ public class ScannerClassAssignment {
 		System.out.print("Enter your Full Name: ");
 		a1.fullName = sc.nextLine();
 		
-		System.out.print("Enter TNSIF Roll No(last 2 digits): ");
+		System.out.print("Enter TNSIF Roll No (last 2 digits): ");
 		a1.rollNumber = sc.nextInt();
 		
 		System.out.print("Enter your grade: ");
@@ -56,7 +56,7 @@ public class ScannerClassAssignment {
 		System.out.println("Name: " + a1.fullName);
 		System.out.println("Roll no : T0201097" + a1.rollNumber);
 		System.out.println("grade: " + a1.grade);
-		System.out.println("percentage: " + a1.percentage);
+		System.out.println("percentage: " + a1.percentage + "%");
 		sc.close();
 	}
 
