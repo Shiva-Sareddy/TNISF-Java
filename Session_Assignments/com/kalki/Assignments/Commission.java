@@ -66,6 +66,9 @@ public class Commission {
 		c.salesEmployeeDetails(c.name, c.address, c.phone, c.salesAmount);
 		
 		// Output:
+		System.out.println("Employee name: " + c.name);
+		System.out.println("Address: " + c.address);
+		System.out.println("Phone number: " + c.phone);
 		System.out.println("Your Commission for " + c.salesAmount + " is: " + c.totalCommission(c.salesAmount));
 		sc.close();
 	}
