@@ -1,6 +1,6 @@
 ### Hi, I'm Shiva Sareddy! 👋
 
-💡 I’m currently enrolled in the **C2TC program** under **TNISF**, a foundation supported by **Capgemini**. This program offers an exciting journey for final-year students, covering:
+💡 I’m currently enrolled in the **C2TC program** under **TNSIF**, a foundation supported by **Capgemini**. This program offers an exciting journey for final-year students, covering:
 
 - 🗄️ **SQL**
 - ☕ **Java**
