@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="CharacterMethods"/>
 	<classpathentry kind="src" path="BigIntegerMethods"/>
 	<classpathentry kind="src" path="AssignmentInterface"/>
+	<classpathentry kind="src" path="ExceptionHandling_Assignment"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
