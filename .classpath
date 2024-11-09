@@ -17,5 +17,6 @@
 	<classpathentry kind="src" path="AssignmentInterface"/>
 	<classpathentry kind="src" path="ExceptionHandling_Assignment"/>
 	<classpathentry kind="src" path="PracticeSet01"/>
+	<classpathentry kind="src" path="Generics"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
