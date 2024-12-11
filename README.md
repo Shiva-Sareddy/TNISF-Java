@@ -6,6 +6,7 @@
 - ☕ **Java**
 - 🎨 **Frontend Development**
 - 🌿 **Spring 5.0**, **Hibernate**
+- 🧬 **React JS**
 - 💻 **Git**
 
 🗓️ The course kicked off on **27th August 2024** and will run for about 4-6 months, providing a fantastic opportunity to dive deep into these technologies while opening up placement prospects for us. 
@@ -13,5 +14,7 @@
 ⚡ I’m passionate about building efficient solutions, and I’m excited to apply what I learn in real-world projects.
 
 ---
+
+📅 Duration: 27/08/2024 to 28/12/2024 (4-Months)
 
 > **"Great code is like a well-oiled machine—efficient, scalable, and maintainable."**
